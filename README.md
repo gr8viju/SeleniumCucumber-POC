@@ -16,6 +16,6 @@ In the terminal navigate to project directory
 
 run below commands to execute the scripts
 
-cucumber features/zipcode_invalidInput.feature --format html --out report.html --format pretty
-cucumber features/zipcode_validInput.feature --format html --out report.html --format pretty
+cucumber features/zipcode_invalidInput.feature --format html --out zipcode_invalidInput_report.html --format pretty
+cucumber features/zipcode_validInput.feature --format html --out zipcode_validInput_report.html --format pretty
 
