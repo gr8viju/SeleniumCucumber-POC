@@ -9,10 +9,15 @@ brew install rbenv ruby-build rbenv-gem-rehash
 echo 'eval "$(rbenv init -)"' >> ~/.bash_profile
 source ~/.bash_profile
 
+
+Follow below guide to install git on your local machine if not already installed
+https://help.github.com/articles/set-up-git/ 
+
+
 Pull the code from GitHub to local directory
+git clone https://github.com/gr8viju/TrueCar-Assignment.git
 
 In the terminal navigate to project directory
-
 
 run below commands to execute the scripts
 
