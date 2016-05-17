@@ -1,5 +1,4 @@
-# TrueCar-Assignment
-Assignment for True Car
+# TrueCar-
 
 -- Ruby Installation steps for MAC  OSX El Capitan
 		Note: In latest Mac OSX releases Ruby is installed
