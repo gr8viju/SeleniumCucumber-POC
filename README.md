@@ -1,4 +1,4 @@
-# TrueCar-
+# SeleniumCucumber POC-
 
 -- Ruby Installation steps for MAC  OSX El Capitan
 		Note: In latest Mac OSX releases Ruby is installed
